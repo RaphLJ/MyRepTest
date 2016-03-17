@@ -1,4 +1,3 @@
-Ceci est un test
 On voit que git fonctionne
 J'ai ajouté une ligne
 Et encore une !
