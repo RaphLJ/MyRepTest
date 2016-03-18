@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (openGL3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+c:\users\fitani\documents\visual studio 2015\projects\wally01_fonctionnel\cubeen3d\opengl3\main.cpp(295): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+c:\users\fitani\documents\visual studio 2015\projects\wally01_fonctionnel\cubeen3d\opengl3\main.cpp(297): warning C4244: 'argument' : conversion de 'double' en 'GLint', perte possible de données
+c:\users\fitani\documents\visual studio 2015\projects\wally01_fonctionnel\cubeen3d\opengl3\main.cpp(298): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
+  openGL3.vcxproj -> C:\Users\Fitani\Documents\Visual Studio 2015\Projects\wally01_fonctionnel\CubeEn3D\Debug\Cube3D.exe
